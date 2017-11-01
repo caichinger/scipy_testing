@@ -2,6 +2,7 @@
 *private*
 *.odg
 *solved*
+*html*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -11,7 +11,7 @@ This module provides the powerful `multiply` function.
 def multiply(a, b):
     """
     >>> multiply(6, 7)
-    42   
+    42
     """
     return a * b
 
